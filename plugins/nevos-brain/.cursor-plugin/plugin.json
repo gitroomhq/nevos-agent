@@ -1,0 +1,14 @@
+{
+  "name": "nevos-brain",
+  "displayName": "Nevo's Brain",
+  "version": "0.1.0",
+  "description": "Gives your agent Nevo David's distribution and marketing playbooks: how he grew Postiz, a bootstrapped SaaS, to millions in ARR. Finding a niche, catching a hype early, picking channels, growth tactics, pricing and launches.",
+  "author": {
+    "name": "Nevo David",
+    "email": "nevo@postiz.com"
+  },
+  "homepage": "https://nevo.md",
+  "license": "MIT",
+  "keywords": ["marketing", "distribution", "growth", "saas", "launch", "mcp"],
+  "logo": "assets/logo.svg"
+}

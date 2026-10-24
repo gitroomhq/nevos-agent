@@ -1,0 +1,18 @@
+{
+  "name": "nevos-agent",
+  "owner": {
+    "name": "Nevo David",
+    "email": "nevo@postiz.com"
+  },
+  "metadata": {
+    "description": "Nevo David's plugins for Cursor",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "nevos-brain",
+      "source": "./plugins/nevos-brain",
+      "description": "Nevo David's distribution and marketing playbooks, searchable by your agent"
+    }
+  ]
+}
